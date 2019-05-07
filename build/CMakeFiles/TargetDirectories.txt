@@ -1,0 +1,3 @@
+/home/salabson/buildmyworld/build/CMakeFiles/edit_cache.dir
+/home/salabson/buildmyworld/build/CMakeFiles/rebuild_cache.dir
+/home/salabson/buildmyworld/build/CMakeFiles/welcome.dir

@@ -1,11 +1,12 @@
 #include<gazebo/gazebo.hh>
 
-namespace gazebo{
-   class WorldPluginMyBot : public WorldPlugin()
+namespace gazebo
+{
+   class WorldPluginMyBot : public WorldPlugin
          {
            public:WorldPluginMyBot(): WorldPlugin()
                   {
-                    printf("Welcome to Salabson World of ROS");
+                    printf("Welcome to Salabson World of ROS \n");
                   }
           public: void Load(physics::WorldPtr _world, sdf::ElementPtr _sdf)
                   {
